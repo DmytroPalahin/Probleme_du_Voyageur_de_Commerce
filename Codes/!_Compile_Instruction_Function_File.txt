@@ -1,0 +1,3 @@
+gcc -c Function_Ant.c Function_Ant_Roulette_Probability_File.c -lm
+gcc Function_Ant.o Function_Ant_Roulette_Probability_File.o -o Function_Ant_Roulette_Probability_File.exe -lm
+./Function_Ant_Roulette_Probability_File.exe
